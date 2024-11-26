@@ -1,0 +1,31 @@
+{
+    "id": "6615F2E5",
+    "path": "~/Projetos/sem_cemave_vi/sobre.qmd",
+    "project_path": "sobre.qmd",
+    "type": "quarto_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1732539733057.0,
+    "source_on_save": false,
+    "relative_order": 5,
+    "properties": {
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "cursorPosition": "1,9",
+        "scrollLine": "0",
+        "rmdVisualModeLocation": "244:0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1732559265,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1732559265036,
+    "read_only": false,
+    "read_only_alternatives": []
+}
