@@ -17,10 +17,10 @@ website:
         text: Home
       - href: programacao.qmd
         text: Programação
+      - href: apresentacoes.qmd
+        text: Apresentações
       - href: sobre.qmd
         text: Sobre
-      # - href: apresentacoes.qmd
-      #   text: Apresentações
       
 format:
   html:

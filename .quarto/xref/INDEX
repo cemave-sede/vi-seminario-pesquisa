@@ -22,5 +22,14 @@
   },
   "sobre.qmd": {
     "sobre.html": "dfb674a3"
+  },
+  "posts/pesquisa/index.qmd": {
+    "index.html": "5899fdda"
+  },
+  "posts/diversidade_cerrado/index.qmd": {
+    "index.html": "76e0b9a7"
+  },
+  "posts/monitoramento_zenaida/index.qmd": {
+    "index.html": "3777a0a0"
   }
 }

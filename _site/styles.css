@@ -1,0 +1,17 @@
+
+/* css styles */
+
+/* Muda a cor de fundo da barra de navegação */
+.navbar {
+    background-color: #2497c4 !important; /* Escolha a cor desejada */
+}
+
+/* Muda a cor do texto da barra de navegação */
+.navbar a {
+    color: white !important; /* Ajuste a cor do texto */
+}
+
+/* Adiciona efeito ao passar o mouse */
+.navbar a:hover {
+    color: #c6c5c4 !important; /* Ajuste a cor para o hover */
+}

@@ -1,0 +1,17 @@
+---
+title: " "
+author: "Antônio Emanuel Barreto Alves de Souza"
+date: "2024-11-02"
+categories: [geral, avoante, monitoramento, Zenaida]
+image: "monitoramento_zenaida.JPG"
+---
+
+<center>
+
+Monitoramento de *Zenaida auriculata* na APA Chapada do Araripe
+
+<iframe src="../../apresentacoes/Monitoramento_Zenaida_auriculata.pdf" width="100%" height="600px">
+
+</iframe>
+
+</center>

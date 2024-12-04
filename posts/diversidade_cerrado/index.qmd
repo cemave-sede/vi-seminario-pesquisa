@@ -1,0 +1,17 @@
+---
+title: " "
+author: "Rodolpho Credo Rodrigues"
+date: "2024-11-03"
+categories: [geral, diversidade, aves, caatinga]
+image: "aves_caatinga.JPG"
+---
+
+<center>
+
+Diversidade e detectabilidade de aves em um gradiente de estrutura de vegetação no Parque Nacional Grande Sertão Veredas, MG
+
+<iframe src="../../apresentacoes/Diversidade_de_aves_Cerrado_RodolphoCRodrigues.pdf" width="100%" height="600px">
+
+</iframe>
+
+</center>
